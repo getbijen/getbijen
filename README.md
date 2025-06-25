@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Bijender @getbijen
-- 👀 I’m interested in Technology
-- 🌱 I’m currently learning Java spring/ springboot framework
-- 💞️ I’m looking to collaborate on interesting project where we can make digital learning an affordable one.
+- 👋 Hi, I’m Bijen @getbijen
+- 👀 Gen-AI enthusiastic
+- 🌱 Learning Technology Trend
+- 💞️ I’m looking to collaborate on efforts to make digital learning available to all.
 - 📫 You can reach out to me on @getbijen or my email id.
 
 <!---
